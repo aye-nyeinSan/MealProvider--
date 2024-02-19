@@ -1,7 +1,10 @@
+import React from "react";
 import "./App.css";
 import DayProvider from "./components/DayProvider";
 import MealList from "./components/MealList";
 import MealProvider from "./components/MealProvider";
+
+
 
 function App() {
   return (
